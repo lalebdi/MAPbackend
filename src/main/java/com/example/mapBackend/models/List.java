@@ -1,6 +1,5 @@
 package com.example.mapBackend.models;
 
-import sun.util.resources.Bundles;
 
 import javax.persistence.*;
 
