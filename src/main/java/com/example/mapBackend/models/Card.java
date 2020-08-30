@@ -25,7 +25,7 @@ public class Card {
     }
 
     public String getCard() {
-        return Card;
+        return card;
     }
 
     public void setCard(String card) {
